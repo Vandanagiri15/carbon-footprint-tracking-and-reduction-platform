@@ -1,0 +1,2 @@
+# carbon-footprint-tracking-and-reduction-platform
+Carbon Footprint Tracking and Reduction Platform  Many businesses produce carbon emissions through electricity, fuel, and waste. They often do not know how much they emit or how to reduce it. Our platform helps businesses calculate their carbon emissions, identify sources, set reduction targets, and get five simple suggestions to reduce emissions.
